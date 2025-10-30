@@ -1,0 +1,2 @@
+Change Net Name : Old Net Name=UART3_RX New Net Name=LC12S_TX
+Change Net Name : Old Net Name=UART_TX New Net Name=LC12S_RX

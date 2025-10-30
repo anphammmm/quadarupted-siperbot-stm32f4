@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=PS2_CS Pin=U1-29
+Added Pin To Net: NetName=PS2_CS Pin=U1-26
+Added Pin To Net: NetName=SPI1_NSS Pin=J1-9
+Added Pin To Net: NetName=SPI1_NSS Pin=U1-29
+Added Net: Name=SPI1_NSS
+Added Member To Class: ClassName=MCU Member=Component C19 1 uF, 16 VDC
+Added Member To Class: ClassName=MCU Member=Component Y1 8MHz
+Added Room: Name=IMU
+Added Room: Name=MCU
+Added Room: Name=Power

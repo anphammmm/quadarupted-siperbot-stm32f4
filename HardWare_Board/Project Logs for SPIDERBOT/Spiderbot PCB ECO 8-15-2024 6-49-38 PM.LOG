@@ -1,0 +1,9 @@
+Change Net Name : Old Net Name=NetJ1_6 New Net Name=PS2_CS
+Change Net Name : Old Net Name=NetJ1_9 New Net Name=SPI3_CS
+Change Net Name : Old Net Name=NetJ2_2 New Net Name=UART_TX
+Change Net Name : Old Net Name=NetJ2_3 New Net Name=UART3_RX
+Added Member To Class: ClassName=MCU Member=Component C19 1 uF, 16 VDC
+Added Member To Class: ClassName=MCU Member=Component Y1 8MHz
+Added Room: Name=IMU
+Added Room: Name=MCU
+Added Room: Name=Power

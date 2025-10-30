@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Pin To Net: NetName=NetU1_56 Pin=U1-56
+Added Net: Name=NetU1_56
+Added Pin To Net: NetName=NetU1_57 Pin=U1-57
+Added Net: Name=NetU1_57
+Added Room: Name=IMU
+Added Room: Name=MCU
+Added Room: Name=Power
